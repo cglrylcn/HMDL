@@ -10,7 +10,7 @@
 
 <dd>Kütüphanenin çalışması için Arduino programının en başına #include "HMD.h" satırını eklemelisiniz. HMD.SETUP(IN1,IN2,IN3,IN4); satırı ise void SETUP() kısmında olmalıdır.</dd>
 <dd>You must add the #include "HMD.h" line top of the Arduino sketch. And HMD.SETUP(IN1,IN2,IN3,IN4); must be in the void SETUP()</dd>
- <table>
+ <dd><dd><table>
       <tr>
          <td>Library Syntax(Kullanılan Kodlar)</td>
          <td>Açıklama</td>
@@ -40,7 +40,7 @@
          <td>Dur</td>
       </tr>
       
-   </table>
+   </table></dd></dd>
 
 
 
