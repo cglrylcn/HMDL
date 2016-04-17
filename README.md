@@ -1,5 +1,5 @@
 # HMDL
-Arduino için Kullanışlı Motor Sürme Kütüphanesi /n
+Arduino için Kullanışlı Motor Sürme Kütüphanesi \n
 Handy Motor Drive Library for Arduino
 
 
